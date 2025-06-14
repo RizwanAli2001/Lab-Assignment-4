@@ -4,7 +4,7 @@ import { Text, View } from "react-native";
 export default function App() {
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Rizwan has updated this message!</Text>
+      <Text>This is Rizwan's final updated message!</Text>
     </View>
   );
 }
